@@ -72,7 +72,7 @@ The primary goal is to provide **actionable insights** into campaign performance
 
 Below is a screenshot of the interactive dashboard for this project:  
 
-![A/B Test Dashboard](Documents/A_B_test_dashbaord.png)
+![A-B-Test-Dashboard-Ad-Campaign-Analysis](Documents/A_B_test_dashbaord.png)
 
 > This visualization showcases trends, key metrics, and year-over-year performance comparisons for Facebook and AdWords campaigns.
 
